@@ -16,7 +16,7 @@ npm start
 API endpoints: 
 
 /api/data-points: returns 10 consecutive data points starting from a random
-timestamp. 
+timestamp
 
 /api/data-prediction: gets the output from api/data-points and predicts the next 3 values in the timeseries data
 
