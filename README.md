@@ -3,9 +3,13 @@ Stock prices prediction app
 
 
 setup:
+
 git clone https://github.com/onidemon/price-prediction.git
+
 cd price-prediction
+
 npm install
+
 npm start
 
 
